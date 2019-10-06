@@ -182,6 +182,9 @@ While packages are not technically specific to AOCH science, they are so essenti
 - [Pangeo SEA Tutorial](https://github.com/pangeo-data/pangeo-tutorial-sea-2018/blob/master/README.md) - Tutorial for folks working on the NCAR Cheyenne Supercomputer
 ## Cheat Sheets
 
+- [Pandas Data Wrangling Cheat Sheet](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf) -Cheat Sheet for Python Pandas covering most of the data handling.
+
+
 ## Miscellaneous
 
 | ▲ [Top](#awesome-open-geoscience) |
